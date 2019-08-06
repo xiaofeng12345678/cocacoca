@@ -1,0 +1,921 @@
+<!doctype html>
+<html data-show-bordered-box="false" data-gigya-api="3_loaOcC7kLye9_BtuY1XGnKhYRTOmQQVxBNSBvte5LbY6AyNiKqkKpW51lNY_Nqzc" data-captcha-api="6Ldh_hQUAAAAAHEVWPm5Zws143EljE-U5bPELrW9" class="theme-bg-page theme-bg-main no-js " lang="zh-CN" >
+<head>
+    <meta charset="utf-8">
+    
+
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>乐在影音－可口可乐视频库:可口可乐中国</title>
+    <meta name="keywords" content="可乐 视频,可口可乐广告词,可口可乐广告音乐,可乐广告,可乐 广告,可口可乐 广告">
+	<meta name="description" content="这里有大量可口可乐的有趣视频，想要的可口可乐广告音乐也应有尽有，欢迎观看。">
+	<script type="application/ld+json"> "ParentOrganization":{"@type" :"Corporation" ,"name" :"The <nobr>Coca-Cola</nobr> Company","url":"http://www.coca-colacompany.com"}</script>
+	<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1.0, maximum-scale=1.0" />
+    <meta property="fb:app_id" content="163481390459969">
+<meta property="og:type" content="article">
+<meta property="og:title" content="乐在影音－可口可乐视频库">
+<meta property="og:description" content="这里有大量可口可乐的有趣视频，想要的可口可乐广告音乐也应有尽有，欢迎观看。">
+<meta property="og:url" content="http://www.coca-cola.com.cn/videos/">
+<link rel="canonical" href="http://tccc-prod61-journey-zh-cn.adobecqms.net/videos">
+	<link rel="shortcut icon" href="https://www.coca-cola.com.cn/content/dam/journey/cn/zh/private/icons/favicon.ico">
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href=""/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href=""/>
+<link rel="apple-touch-icon-precomposed" sizes="57x57" href=""/>
+<meta name="apple-mobile-web-app-title" content="Journey">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">     
+
+
+
+<link rel="stylesheet" href="/etc/designs/journey/main.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/journey/libs/components/all_china.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/journey/libs/components/extra_china.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/journey/theme/default.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/journey/i18n/zh_CN.min.css" type="text/css">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto+Condensed:400,300" type="text/css">
+<script type="text/javascript" src="//use.typekit.net/hep8iqb.js"></script>
+<script type="text/javascript">if(screen.width<=480){document.documentElement.className+=" mobile";}try{Typekit.load();}catch(e){}</script>
+
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/utils.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/granite/jquery/granite.min.js"></script>
+<script type="text/javascript" src="/etc/clientlibs/foundation/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/designs/journey/libs/modernizr.min.js"></script>
+
+<script>
+function copyToClipboard() {
+    try {
+    	selectElementText(document.getElementById("copyToClipboard"));
+        var successful = document.execCommand('copy');
+        var msg = successful ? 'successful' : 'unsuccessful';
+        console.log('Copying text command was ' + msg);
+    } catch (err) {
+        console.log('Oops, unable to copy');
+    }
+}
+
+function selectElementText(el) {
+    var win = window;
+    var doc = win.document, sel, range;
+    if (win.getSelection && doc.createRange) {
+        sel = win.getSelection();
+        range = doc.createRange();
+        range.selectNodeContents(el);
+        sel.removeAllRanges();
+        sel.addRange(range);
+    } else if (doc.body.createTextRange) {
+        range = doc.body.createTextRange();
+        range.moveToElementText(el);
+        range.select();
+    }
+}
+</script>
+</head>
+<!--
+         __                              ___   __        .ama     ,
+      ,d888a                          ,d88888888888ba.  ,88"I)   d
+     a88']8i                         a88".8"8)   `"8888:88  " _a8'
+   .d8P' PP                        .d8P'.8  d)      "8:88:baad8P'
+  ,d8P' ,ama,   .aa,  .ama.g ,mmm  d8P' 8  .8'        88):888P'
+ ,d88' d8[ "8..a8"88 ,8I"88[ I88' d88   ]IaI"        d8[
+ a88' ]P "bm8mP8'(8'.8I  8[      d88'    `"         .88
+,88I ]P[  .I'.8     88' ,8' I[  ,88P ,ama    ,ama,  d8[  .ama.g
+[88' I8, .I' ]8,  ,88B ,d8 aI   (88',88"8)  d8[ "8. 88 ,8I"88[
+]88  `8888"  '8888" "88P"8m"    I88 88[ 8[ ]P "bm8m88[.8I  8[
+]88,          _,,aaaaaa,_       I88 8"  8 ]P[  .I' 88 88' ,8' I[
+`888a,.  ,aadd88888888888bma.   )88,  ,]I I8, .I' )88a8B ,d8 aI
+  "888888PP"'        `8""""""8   "888PP'  `8888"  `88P"88P"8m"
+
+Normand Veillieux
+
+-->
+<!-- Platform Version: 4.10.3 -->
+<!-- Vanity Map Version: 4.10.3 -->
+<!-- CloudSearch Version: 4.10.3 -->
+<!-- Crosslinker Version:  -->
+<!-- Video Ingestion Version: -->
+<!-- Journey Version: 4.10.3 -->
+<body itemscope itemtype="http://schema.org/WebPage" lang="zh_CN" data-date-format="MM/dd/yyyy" data-vanity-paths='' data-vanity-url="" data-lambda-endpoint="" data-locale="cn_zh" data-lambda-endpoint-cloudsearchrecords="https://uc8sgmjzag.execute-api.us-east-1.amazonaws.com/prod/getCloudSearchRecords" data-author-mode="false" data-current-page-path="" data-awscloudendpoint="https://rif2f39i2m.execute-api.us-east-1.amazonaws.com" data-awsregion="us-east-1" data-awsversion="beta">
+
+	<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-N6GZQ6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-N6GZQ6');</script>
+<!-- End Google Tag Manager -->
+<div class="authorWarning">
+		<p class="warningIcon">
+			<i class="fa fa-exclamation-triangle" aria-hidden="true"></i>
+		</p>
+		<div class="vanityPathsList"></div>
+	</div>
+	<div class="RegionPulldown"><!--googleoff: all-->
+<header id="global-header" class="has-packages skinny  ">
+	<section id="global-hat" class="clearfix">
+		<a id="mobile-menu"><i class="icon-reorder" aria-hidden="true"></i></a>
+		<div class="vertically-centered">
+			<a id="mobile-logo" href="/homepage">
+
+					<img data-src='{
+								"desktop":"/content/dam/journey/cn/zh/logo/CCChina-JourneyLogo-small.png",
+								"tablet":"/content/dam/journey/cn/zh/logo/CCChina-JourneyLogo-small.png",
+								"mobile":"/content/dam/journey/cn/zh/logo/CCChina-JourneyLogo-small.png"
+							}' data-dimensions='{
+								"desktop":"185_40",
+								"tablet":"185_40",
+								"mobile":"185_40"
+							}' data-override-size="small" src="/content/dam/journey/cn/zh/logo/CCChina-JourneyLogo-small.png" alt="微信图片_20180410200258.png" class="hidden horizontally-centered"/>
+					</a>
+			</div>
+	</section>
+
+	<section id="global-menu-items">
+		<div id="header-container" role="navigation" aria-label="global_menu">
+			<div class="trail parbase CountrySelector"><div class="sub-nav col col2 not-selectable">
+    <ul class="link-list">
+        <li class="link-list-item vertically-centered countries sub-menu-wrapper" data-linked-menu-id="js-country-menu">
+            <a class="country-menu-link sub-menu-link">国家（中国）<i class="icon-caret-down" aria-hidden="true"></i><span class="sr-only">国家（中国）</span></a>
+        </li>
+    </ul>
+</div>
+<div class="desktop-tablet-sub-menu" id="js-country-menu">
+    <div class="content-bounds">
+        <ul class="section-column">
+            <li class="primary">
+                <a>国家</a>
+            </li>
+            <li>
+                <a href="/homepage">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"中国","tablet":"中国","mobile":"中国"}' class="">中国</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-colacompany.com" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"全球(Global)","tablet":"全球(Global)","mobile":"全球(Global)"}' class="">全球(Global)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-colajourney.com.au/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"澳大利亚(Australia)","tablet":"澳大利亚(Australia)","mobile":"澳大利亚(Australia)"}' class="">澳大利亚(Australia)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-cola.ie/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"爱尔兰(Ireland)","tablet":"爱尔兰(Ireland)","mobile":"爱尔兰(Ireland)"}' class="">爱尔兰(Ireland)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-colajourney.com.pk/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"巴基斯坦(Pakistan)","tablet":"巴基斯坦(Pakistan)","mobile":"巴基斯坦(Pakistan)"}' class="">巴基斯坦(Pakistan)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-cola-deutschland.de/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"德国(Germany)","tablet":"德国(Germany)","mobile":"德国(Germany)"}' class="">德国(Germany)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-colarussia.ru/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"俄罗斯(Russia)","tablet":"俄罗斯(Russia)","mobile":"俄罗斯(Russia)"}' class="">俄罗斯(Russia)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-cola.dk/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"丹麦(Danmark)","tablet":"丹麦(Danmark)","mobile":"丹麦(Danmark)"}' class="">丹麦(Danmark)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-cola-france.fr/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"法国(France)","tablet":"法国(France)","mobile":"法国(France)"}' class="">法国(France)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-cola.fi/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"芬兰(Finland)","tablet":"芬兰(Finland)","mobile":"芬兰(Finland)"}' class="">芬兰(Finland)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.cocacola.co.jp/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"日本(Japan)","tablet":"日本(Japan)","mobile":"日本(Japan)"}' class="">日本(Japan)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://fr.coca-colamaroc.ma/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"摩洛哥-法语(Morocco-French) ","tablet":"摩洛哥-法语(Morocco-French) ","mobile":"摩洛哥-法语(Morocco-French) "}' class="">摩洛哥-法语(Morocco-French) </span>
+                </a>
+            </li>
+            <li>
+                <a href="http://ar.coca-colamaroc.ma/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"摩洛哥-阿拉伯语(Morocco-Arabic)","tablet":"摩洛哥-阿拉伯语(Morocco-Arabic)","mobile":"摩洛哥-阿拉伯语(Morocco-Arabic)"}' class="">摩洛哥-阿拉伯语(Morocco-Arabic)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-cola.no/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"挪威(Norway)","tablet":"挪威(Norway)","mobile":"挪威(Norway)"}' class="">挪威(Norway)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-cola.se/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"瑞典(Sweden)","tablet":"瑞典(Sweden)","mobile":"瑞典(Sweden)"}' class="">瑞典(Sweden)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-colaukraine.com/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"乌克兰(Ukraine)","tablet":"乌克兰(Ukraine)","mobile":"乌克兰(Ukraine)"}' class="">乌克兰(Ukraine)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.cocacola.es/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"西班牙(Spain)","tablet":"西班牙(Spain)","mobile":"西班牙(Spain)"}' class="">西班牙(Spain)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-colajourney.co.nz/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"新西兰(New Zealand)","tablet":"新西兰(New Zealand)","mobile":"新西兰(New Zealand)"}' class="">新西兰(New Zealand)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-colaitalia.it/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"意大利(Italy)","tablet":"意大利(Italy)","mobile":"意大利(Italy)"}' class="">意大利(Italy)</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.coca-cola.co.uk/" target="_blank">
+				<span itemprop="name" data-override-size="" data-title='{"desktop":"英国(UK)","tablet":"英国(UK)","mobile":"英国(UK)"}' class="">英国(UK)</span>
+                </a>
+            </li>
+            </ul>
+    </div>
+</div>
+</div>
+<div class="flyout parbase CorporateFlyout"><div class="sub-nav col col1 not-selectable">
+    <ul class="link-list">
+      <div class="Nav"></div>
+<li class="link-list-item our-company vertically-centered sub-menu-wrapper" data-linked-menu-id="js-company-menu">
+            <span class="bar">|</span>
+            <a class="sub-menu-link">
+                <span itemprop="name" data-override-size="" data-title='{"desktop":"<nobr>可口可乐公司</nobr> <strong class=\"theme-secondary knockout-bgcolor\"></strong>","tablet":"<nobr>可口可乐公司</nobr> <strong class=\"theme-secondary knockout-bgcolor\"></strong>","mobile":"<nobr></nobr> <strong class=\"theme-secondary knockout-bgcolor\"></strong>"}' class="">
+                    <nobr>可口可乐公司</nobr> <strong class="theme-secondary knockout-bgcolor"></strong></span>
+                <i class="icon-caret-down" aria-hidden="true"></i>
+            </a>
+        </li>
+	  </ul>
+</div>
+<div class="desktop-tablet-sub-menu" id="js-company-menu">
+    <div class="content-bounds">
+        <ul class=" section-column ">   
+            <li class="primary">
+    	<a href="http://www.coca-colacompany.com/our-company/"><span itemprop="name" data-override-size="" data-title='{"desktop":"关于我们","tablet":"关于我们","mobile":"关于我们"}' class="">关于我们</span>
+                </a>
+            </li>
+            <li>
+                        	<a href="/our-company">
+		                            <span itemprop="name" data-override-size="" data-title='{"desktop":"关于我们","tablet":"关于我们","mobile":"关于我们"}' class="">关于我们</span>
+	                             </a>
+	                            </li>
+                     <li>
+	                        <a href="/our-company/smyjyjzg">
+	                            <span itemprop="name" data-override-size="" data-title='{"desktop":"使命、愿景与价值观","tablet":"使命、愿景与价值观","mobile":"使命、愿景与价值观"}' class="">使命、愿景与价值观</span>
+	                        </a>
+	                    </li>
+	               <li>
+	                        <a href="/our-company/coca-cola-china-system">
+	                            <span itemprop="name" data-override-size="" data-title='{"desktop":"可口可乐在中国","tablet":"可口可乐在中国","mobile":"可口可乐在中国"}' class="">可口可乐在中国</span>
+	                        </a>
+	                    </li>
+	               <li>
+	                        <a href="/our-company/sustainability-report">
+	                            <span itemprop="name" data-override-size="" data-title='{"desktop":"可口可乐中国可持续发展报告2014-2016","tablet":"可口可乐中国可持续发展报告2014-2016","mobile":"可口可乐中国可持续发展报告2014-2106"}' class="">可口可乐中国可持续发展报告2014-2016</span>
+	                        </a>
+	                    </li>
+	               <li>
+	                        <a href="/human-and-workplace-rights">
+	                            <span itemprop="name" data-override-size="" data-title='{"desktop":"人权与工作场所权利","tablet":"人权与工作场所权利","mobile":"人权与工作场所权利"}' class="">人权与工作场所权利</span>
+	                        </a>
+	                    </li>
+	               </ul>
+           <ul class=" section-column ">   
+            <li class="primary">
+    	<a href="http://www.coca-colacompany.com/our-company/"><span itemprop="name" data-override-size="" data-title='{"desktop":"新闻中心","tablet":"新闻中心","mobile":"新闻中心"}' class="">新闻中心</span>
+                </a>
+            </li>
+            <li>
+                        	<a href="/press-centre">
+		                            <span itemprop="name" data-override-size="" data-title='{"desktop":"新闻中心","tablet":"新闻中心","mobile":"新闻中心"}' class="">新闻中心</span>
+	                             </a>
+	                            </li>
+                     <li>
+	                        <a href="/press-centre/press-releases">
+	                            <span itemprop="name" data-override-size="" data-title='{"desktop":"新闻资讯","tablet":"新闻资讯","mobile":"新闻资讯"}' class="">新闻资讯</span>
+	                        </a>
+	                    </li>
+	               <li>
+	                        <a href="/press-centre/image-library">
+	                            <span itemprop="name" data-override-size="" data-title='{"desktop":"照片图库","tablet":"照片图库","mobile":"照片图库"}' class="">照片图库</span>
+	                        </a>
+	                    </li>
+	               </ul>
+           <ul class=" section-column ">   
+            <li class="primary">
+    	<a href="http://www.coca-colacompany.com/our-company/"><span itemprop="name" data-override-size="" data-title='{"desktop":"饮料百科","tablet":"饮料百科","mobile":"饮料百科"}' class="">饮料百科</span>
+                </a>
+            </li>
+            <li>
+                        	<a href="/our-products/beveragefaq">
+		                            <span itemprop="name" data-override-size="" data-title='{"desktop":"饮料百科","tablet":"饮料百科","mobile":"饮料百科"}' class="">饮料百科</span>
+	                             </a>
+	                            </li>
+                     </ul>
+           <ul class=" section-column ">   
+            <li class="primary">
+    	<a href="http://www.coca-colacompany.com/our-company/"><span itemprop="name" data-override-size="" data-title='{"desktop":"联系我们","tablet":"联系我们","mobile":"联系我们"}' class="">联系我们</span>
+                </a>
+            </li>
+            <li>
+                        	<a href="/contact-us">
+		                            <span itemprop="name" data-override-size="" data-title='{"desktop":"联系我们","tablet":"联系我们","mobile":"联系我们"}' class="">联系我们</span>
+	                             </a>
+	                            </li>
+                     </ul>
+           <ul class=" section-column ">   
+            <li class="primary">
+    	<a href="http://www.coca-colacompany.com/our-company/"><span itemprop="name" data-override-size="" data-title='{"desktop":"招贤纳士","tablet":"招贤纳士","mobile":"招贤纳士"}' class="">招贤纳士</span>
+                </a>
+            </li>
+            <li>
+                        	<a href="/careers">
+		                            <span itemprop="name" data-override-size="" data-title='{"desktop":"招贤纳士","tablet":"招贤纳士","mobile":"招贤纳士"}' class="">招贤纳士</span>
+	                             </a>
+	                            </li>
+                     <li>
+	                        <a href="/careers/jrkkkldly">
+	                            <span itemprop="name" data-override-size="" data-title='{"desktop":"加入可口可乐的理由","tablet":"加入可口可乐的理由","mobile":"加入可口可乐的理由"}' class="">加入可口可乐的理由</span>
+	                        </a>
+	                    </li>
+	               <li>
+	                        <a href="/careers/career-search">
+	                            <span itemprop="name" data-override-size="" data-title='{"desktop":"招贤纳士","tablet":"招贤纳士","mobile":"招贤纳士"}' class="">招贤纳士</span>
+	                        </a>
+	                    </li>
+	               <li>
+	                        <a href="/careers/zyly">
+	                            <span itemprop="name" data-override-size="" data-title='{"desktop":"专业领域","tablet":"专业领域","mobile":"专业领域"}' class="">专业领域</span>
+	                        </a>
+	                    </li>
+	               </ul>
+           </div>
+</div></div>
+<div class="sub-nav col col0">
+				<div class="CloudSearchBox cloudSearch"><div class="search-box" role="search" aria-labelledby="search">
+    <div id="search">
+    	<form action="/search" id="cloudsearch" accept-charset="UTF-8">
+        	<input type="text" name="q" id="q" value="" placeholder="搜索" class="search-query-field" autocomplete="off" aria-label="搜索">
+        	<div class="icon-container"><i class="icon-search" aria-hidden="true"></i> <span class="sr-only">搜索</span></div>
+        </form>
+    </div>
+</div></div>
+</div>
+		</div>
+
+		<section id="global-banner" class="hidden-phone">
+			<div class="container">
+				<div class="vertically-centered">
+						<a href="/homepage">
+
+							<img data-src='{
+										"desktop":"/content/dam/journey/cn/zh/logo/CCChina-JourneyLogo-small.png",
+										"tablet":"/content/dam/journey/cn/zh/logo/CCChina-JourneyLogo-small.png",
+										"mobile":"/content/dam/journey/cn/zh/logo/CCChina-JourneyLogo-small.png"
+									}' data-override-size="small" data-dimensions='{
+										"desktop":"185_40",
+										"tablet":"185_40",
+										"mobile":"185_40"
+									}' src="/content/dam/journey/cn/zh/logo/CCChina-JourneyLogo-small.png" alt="CCChina-JourneyLogo-small.png" title="" class="hidden horizontally-centered"/>
+						 	</a>
+					</div>
+				</div>
+		</section>
+
+		<div class="TopNavigation parbase topNav"><section id="global-section-nav" role="navigation" aria-label="top_menu">
+    <nav class="container clearfix">
+    <ul class="sections" data-total-sections="6">
+    <li class="section">
+       	    <a tabindex="1" href="/homepage" class=" section-link first">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"首页<strong class=\"theme-secondary\"></strong>",
+						"tablet":"首页<strong class=\"theme-secondary\"></strong>",
+						"mobile":"首页<strong class=\"theme-secondary\"></strong>"}'>
+							
+						首页<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="2" href="/brands/CCCChina" class=" section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"品牌家族<strong class=\"theme-secondary\"></strong>",
+						"tablet":"品牌家族<strong class=\"theme-secondary\"></strong>",
+						"mobile":"品牌家族<strong class=\"theme-secondary\"></strong>"}'>
+							
+						品牌家族<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="3" href="/history" class=" section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"百年光阴<strong class=\"theme-secondary\"></strong>",
+						"tablet":"百年光阴<strong class=\"theme-secondary\"></strong>",
+						"mobile":"百年光阴<strong class=\"theme-secondary\"></strong>"}'>
+							
+						百年光阴<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="4" href="/sustainability" class=" section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"可持续发展<strong class=\"theme-secondary\"></strong>",
+						"tablet":"可持续发展<strong class=\"theme-secondary\"></strong>",
+						"mobile":"可持续发展<strong class=\"theme-secondary\"></strong>"}'>
+							
+						可持续发展<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="5" href="/videos" class="active section-link ">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"乐在影音<strong class=\"theme-secondary\"></strong>",
+						"tablet":"乐在影音<strong class=\"theme-secondary\"></strong>",
+						"mobile":"乐在影音<strong class=\"theme-secondary\"></strong>"}'>
+							
+						乐在影音<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        <li class="section">
+       	    <a tabindex="6" href="/content/journey/cn/zh/careers" class=" section-link " target="_blank">
+					<div class="section-link-text">
+					<span itemprop="name" data-override-size="" data-title='{
+						"desktop":"招贤纳士<strong class=\"theme-secondary\"></strong>",
+						"tablet":"招贤纳士<strong class=\"theme-secondary\"></strong>",
+						"mobile":"招贤纳士<strong class=\"theme-secondary\"></strong>"}'>
+							
+						招贤纳士<strong class="theme-secondary"></strong></span>
+                </div>
+            </a>
+        </li>
+        </ul>
+	</nav>
+</section>
+</div>
+<div class="Nav"><section id="global-package-nav" class="collapsed">
+        <div class="container">
+            <ul class="packages" data-total-packages="5">
+                <li class="package first" data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/WeCare" class="package-link " data-has-tooltip="false">
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"我们在乎","tablet":"我们在乎","mobile":"我们在乎"}'
+                                    class="">我们在乎</span>
+                                </div>
+                    </a>
+                </li><li class="package " data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/2018worldcup" class="package-link " data-has-tooltip="false">
+                        <i class="package-link-separator icon-circle" aria-hidden="true"></i>
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"2018世界杯","tablet":"2018世界杯","mobile":"2018世界杯"}'
+                                    class="">2018世界杯</span>
+                                </div>
+                    </a>
+                </li><li class="package " data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/20142016nkcxfzbg" class="package-link " data-has-tooltip="false">
+                        <i class="package-link-separator icon-circle" aria-hidden="true"></i>
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"2014-2016可持续发展报告","tablet":"2014-2016可持续发展报告","mobile":"2014-2016可持续发展报告"}'
+                                    class="">2014-2016可持续发展报告</span>
+                                </div>
+                    </a>
+                </li><li class="package " data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/coke-bottle-100" class="package-link " data-has-tooltip="false">
+                        <i class="package-link-separator icon-circle" aria-hidden="true"></i>
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"百年摩登弧形瓶","tablet":"百年摩登弧形瓶","mobile":"百年摩登弧形瓶"}'
+                                    class="">百年摩登弧形瓶</span>
+                                </div>
+                    </a>
+                </li><li class="package " data-package-id="#"> <!-- keep </li><li> together -->
+                    <a href="/cocacolawingsprogram" class="package-link " data-has-tooltip="false">
+                        <i class="package-link-separator icon-circle" aria-hidden="true"></i>
+                        <div class="package-link-text">
+                            <span itemprop="name" data-override-size=""
+                                    data-title='{"desktop":"可口可乐管理培训生计划","tablet":"可口可乐管理培训生计划","mobile":"可口可乐管理培训生计划"}'
+                                    class="">可口可乐管理培训生计划</span>
+                                </div>
+                    </a>
+                </li><!-- keep </li><li> together -->
+            </ul>
+        </div>
+    </section>
+    <div class="fold fold-left"></div>
+    <div class="fold fold-right"></div>
+</div>
+</section>
+</header>
+<!--googleon: all-->
+</div>
+<div class="wrapper">
+    <div class="Breadcrumbs breadcrumbs"><div id="bc_container">
+        <nav class="breadcrumb" role="navigation" aria-label="breadCrumbs">
+            <ol id="breadcrumb" itemscope itemtype="http://data-vocabulary.org/BreadcrumbList">
+                <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="">
+                            <span itemprop="name">
+                                        <a href="/homepage" itemprop="url" rel="home" title="首页" class="theme-contrast">首页</a>
+                        	                </span>
+                                </li>
+                    <font>&gt;</font>
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="">
+                            <span itemprop="name">
+                                        <a href="/videos" itemprop="url" rel="home" title="乐在影音" class="theme-contrast">乐在影音</a>
+                        	                </span>
+                                </li>
+                    <font>&gt;</font>
+                        <li itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem" class="active">
+                            <span itemprop="name" class="shorten-breadcrumb theme-contrast">ALL</span>
+                                </li>
+                    </ol>
+        </nav>
+    </div>
+</div>
+<div class="grid">
+    <div class="row">
+		<div class="CloudSearchVideoDirectory cloudSearchVideoDirectory"><form>
+<input id="topicproperty" type="hidden" value='/content/journey/cn/zh/jcr:content.infinity.json' aria-label="hidden" />
+</form>
+<link rel="stylesheet" href="/etc/designs/journey/libs/components/videodirectory.min.css" type="text/css">
+<script type="text/javascript" src="/etc/designs/journey/libs/components/videodirectory.min.js"></script>
+<div id="video-directoryCloud" class="video-directoryCloud" data-offset="12" data-cloudSearchBean= "{'endPoint':'https://rif2f39i2m.execute-api.us-east-1.amazonaws.com','awsRegion':'us-east-1','awsVersion':'beta','language':'zh','country':'cn','brands':[],'topics':['com.tccc.journey.common.content.Tag@2aa14399','com.tccc.journey.common.content.Tag@1c2a1bb3','com.tccc.journey.common.content.Tag@78ce38e3','com.tccc.journey.common.content.Tag@7ab174e5'],'languages':{'langName':'可口可乐中国','langLocale':'zh'},'directoryAllTitle':'全部视频','viewType':'','titles':'com.tccc.journey.common.content.Title@5a2c5da1','ajaxUrl':'/content/journey/cn/zh/videos/_jcr_content/videoBottomRail/cloudSearchVideoDirectory.Ajax.json','propertyAjaxUrl':'/content/journey/cn/zh/jcr:content.infinity.json','selectedFilterTitle':'all','videoSectionUrl':'/content/journey/cn/zh/videos','ndVideoAssetUrl':'/content/journey/cn/zh/videos/non-downloadable-video','avLibraryUrl':'/content/journey/cn/zh/press-centre/a-v-library/downloadable-video','videoSearchUrl':'/content/journey/cn/zh/videos','viewsLabel':'浏览量','loadMoreLabel':'查看更多视频','watchNowLabel':'立即观看','langLabel':'语言','langAllLabel':'全部','searchLabel':'搜索 ','searchText':'search','topicFiltersLabel':'主题','brandFiltersLabel ':'品牌','resultsUnitLabel':' 条','resultsLabel':' 视频','resultsSortLabel':'视频检索','resultsMostPopularLabel':'热门视频','resultsMostRecentLabel':'最近更新','videoSearchResultsFoundLabel':'搜索结果关于','videoSearchNoResultsLabel':'无搜索结果关于','currentPagePath':'/content/journey/cn/zh/videos','isAuthorMode':false}" data-page-path="/content/journey/cn/zh/videos" data-load-more-url="/content/journey/cn/zh/videos/_jcr_content/videoBottomRail/cloudSearchVideoDirectory.Ajax.json">
+    <h1 class="heading-xlarge">
+             <span itemprop="name" data-title='{
+                "desktop":"乐在影音",
+                "tablet":"乐在影音",
+                "mobile":"乐在影音"}'>乐在影音</span>
+        </h1>
+        <section class="column-wrapper">
+        <div class="column left video-navigation">
+            <ul class="tabs">
+                <li class="item left">
+                    <a href="#video-topics">主题</a>
+                </li>
+                </ul>
+            <ul id="video-topics" class="list">
+                <li class="item " data-item-index="1" data-featured-video="" data-topic-keywords="" data-isCustomTitle="false" data-videooverride-title="" data-videooverride-desc="">
+	               				<a href="/videos.%E5%8F%AF%E6%8C%81%E7%BB%AD%E5%8F%91%E5%B1%95.html" id="" class="text knockout-bgcolor theme-font-main theme-main">
+                        <span  itemprop="name" data-title='{
+                            "desktop":"可持续发展",
+                            "tablet":"可持续发展",
+                            "mobile":"可持续发展"}'>
+                            可持续发展</span>
+                    </a>
+                </li>
+               <li class="item " data-item-index="2" data-featured-video="" data-topic-keywords="" data-isCustomTitle="false" data-videooverride-title="" data-videooverride-desc="">
+	               				<a href="/videos.%E5%95%86%E4%B8%9A%E8%BF%90%E8%90%A5.html" id="" class="text knockout-bgcolor theme-font-main theme-main">
+                        <span  itemprop="name" data-title='{
+                            "desktop":"商业运营",
+                            "tablet":"商业运营",
+                            "mobile":"商业运营"}'>
+                            商业运营</span>
+                    </a>
+                </li>
+               <li class="item " data-item-index="3" data-featured-video="" data-topic-keywords="" data-isCustomTitle="false" data-videooverride-title="" data-videooverride-desc="">
+	               				<a href="/videos.%E6%96%87%E5%8C%96%E5%85%B1%E4%BA%AB.html" id="" class="text knockout-bgcolor theme-font-main theme-main">
+                        <span  itemprop="name" data-title='{
+                            "desktop":"文化共享",
+                            "tablet":"文化共享",
+                            "mobile":"文化共享"}'>
+                            文化共享</span>
+                    </a>
+                </li>
+               <li class="item " data-item-index="4" data-featured-video="" data-topic-keywords="" data-isCustomTitle="false" data-videooverride-title="" data-videooverride-desc="">
+	               				<a href="/videos.%E5%88%9B%E6%96%B0%E7%AA%81%E7%A0%B4.html" id="" class="text knockout-bgcolor theme-font-main theme-main">
+                        <span  itemprop="name" data-title='{
+                            "desktop":"创新突破",
+                            "tablet":"创新突破",
+                            "mobile":"创新突破"}'>
+                            创新突破</span>
+                    </a>
+                </li>
+               </ul>
+            <ul id="video-brands" class="list">
+            </ul>
+            <a href="javascript:" id="mobile_collapse" class="visible-phone not-collapsed mobile-collapse"></a>
+        </div>
+        <div class="column right not-mobile">
+            <div class="inner-container">
+                <div class="search" role="search" aria-labelledby="search">
+                    <input type="search" name="q" placeholder="search"/>
+                    <button aria-label="search" class="button small align-center"><i class="icon-double-angle-right" aria-hidden="true"></i><span class="sr-only">搜索 </span>搜索 </button>
+                </div>
+        <div class="heroCarousel-inner royalSlider rsDefault">
+            <div class="item item-1">
+                <a href="" class="col left">
+                    <img alt="" title="" class="bordered">
+                    <div class="poster-overlay">
+                         <div class="center-vertically">
+                            <i class="icon-play theme-link knockout-bgcolor" aria-hidden="true"></i>
+                            <span class="sr-only">Play button</span>
+                        </div>
+                    </div>
+                </a>
+                <a href="" class="col right">
+                    <div class="caption">
+                        <h2 class="section-headline theme-main theme-font-main knockout-bgcolor">
+                            <span itemprop="name" data-title="">
+                            </span>
+                        </h2>
+                        <div class="summary fadeout"></div>
+                    </div>
+                </a>
+            </div>
+        </div>
+                <div class="filter-options">
+                    <div class="video-stats">
+                        <span id="total-video-count" class="count">
+                            <span id="total-video-count-number" class="total-video-count-number">
+                             </span>
+                            <span></span>
+                            <span id="total-video-count-label">
+                                 视频</span>
+                        </span>
+                    <div id="video-search-matched-label" class="video-search-message">
+                        <span class="query"></span>
+                    </div>
+                </div>
+                    <div class="clearfix">
+                        <div class="sort-module">
+                            <span class="label">
+                                视频检索:
+                            </span>
+                            <select id="video-sorter" class="selectboxit video-sorter">
+                                <option value="recency">最近更新</option>
+                                <option value="popularity">热门视频</option>
+                            </select>
+                        </div>
+                        <div class="filter-module">
+                            <span class="label">
+                                语言:
+                            </span>
+                            <select id="language-picker" class="selectboxit language-picker">
+                            <option value="all">全部</option>
+                                <option value="zh">可口可乐中国</option>
+                            </select>
+                        </div>
+                    </div>
+<div id="video-search-nomatch-label" class="video-search-message ">
+                        无搜索结果关于 &quot; <span class="query">  </span>&quot;
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+                <section id="video-search-results" class="search-results">
+
+                </section>
+                <div class="clearfix"></div>
+
+                <div class="align-center">
+                    <a href="javascript:" id="load-more-button" class="button large"><i class="icon-double-angle-right" aria-hidden="true"></i><span class="sr-only">查看更多视频</span> 查看更多视频</a>
+                </div>
+            </div>
+        </div>
+        <div class="clearfix"></div>
+    </section>
+    <li class="search-result-item-template search-result hidden">
+        <div>
+            <a class="poster-link" href="#">
+                <img class="bordered poster" src="#" alt=""/>
+                <div class="poster-overlay">
+                    <div class="center-vertically">
+                        <i class="icon-play theme-link knockout-bgcolor" aria-hidden="true"></i>
+                        <span class="sr-only">Play button</span>
+                    </div>
+                </div>
+            </a>
+
+            <div class="title ellipsis"></div>
+
+            <div class="view-count-wrapper">
+                <span class="views"></span>&nbsp;<span>浏览量</span>
+            </div>
+
+            <div class="summary trunk8">&nbsp;</div>
+            <a class="watch-now" href="#">
+                <i class="icon-double-angle-right" aria-hidden="true"></i>
+                立即观看<span class="sr-only">立即观看</span>
+            </a>
+        </div>
+    </li>
+</div>
+</div>
+<div class="parsys pageContent">
+</div>
+</div>
+</div>
+<div class="TwoWide"><!--  Add c:if tag around all this div based on the property from dictionary -->
+
+<div id="social-stats" class="no-count">
+    <div class="shadow"></div>
+    <h4 class="headline-section theme-main-subtitle ">
+        <span itemprop="name" data-title='{"desktop":"<span class="nobr">关注我们</span> <strong class=\"theme-secondary\"></strong>","tablet":"<span class="nobr">关注我们</span> <strong class=\"theme-secondary\"></strong>","mobile":"<span class="nobr">关注我们</span> <strong class=\"theme-secondary\"></strong>"}'>
+            <span class="nobr">关注我们</span> <strong class="theme-secondary knockout-bgcolor"></strong></span>
+    </h4>
+    <div class="container" data-network-count="2" 
+    	 data-social-count-service-url="https://uc8sgmjzag.execute-api.us-east-1.amazonaws.com/prod/getSocialCounts"
+    	 data-social-count-request='{"site":"CN_ZH","trueCache":"true","socialNetworks":[{"networkName":"SINAWEIBO","accountName":"1835097604"},{"networkName":"WECHAT","accountName":"coke1886"}]}'>
+        <div data-order="1" class="statistic">
+                <div class="icon">
+                    <a href="http://weibo.com/cokechina?refer_flag=1001030101_" target="_blank" title="粉丝">
+                        <img src="/content/dam/journey/cn/zh/private/icons/sinaweibo.png" width="35" height="35" alt="粉丝"/>
+                    </a>
+                </div>
+                <div class="text-wrapper SINAWEIBO &nbsp; 1835097604">
+                    <div class="value"></div>
+                    <div class="term">粉丝</div>
+                </div>
+            </div>
+        <div data-order="2" class="statistic">
+                <div class="icon">
+                    <a href="/content/journey/cn/zh/stories/social/wechat" target="_blank" title="关注">
+                        <img src="/content/dam/journey/cn/zh/private/icons/wechat.png" width="35" height="35" alt="关注"/>
+                    </a>
+                </div>
+                <div class="text-wrapper WECHAT &nbsp; coke1886">
+                    <div class="value"></div>
+                    <div class="term">关注</div>
+                </div>
+            </div>
+        </div>
+</div>
+</div>
+<div class="Flash"><!--googleoff: all-->
+<footer
+    data-masthead-url="/content/journey/cn/zh/_jcr_content.mastheadauthors.json/content/journey/cn/zh/videos.json"
+    data-notifications-ui="/content/journey/cn/zh/_jcr_content.newsLetterFlyOut.html/content/journey/cn/zh/videos.html"
+    data-subscribe="/content/journey/cn/zh/videos/_jcr_content/footer.subscribe.json"
+    data-search-url="http://www.coca-colacompany.com/search" 
+    data-newsletter-visit="true" 
+      data-get-popup= "/content/journey/cn/zh/_jcr_content.newsLetterSignUpPopUp.html/content/journey/cn/zh/videos.html"
+    
+    >
+    
+    <nav class="top-level antialiased" role="navigation" aria-label="footer_TopMenu">
+        <ul>
+        <li class="first">
+	      <a href="/homepage" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"首页<strong class=\"theme-secondary\"></strong>",
+						"tablet":"首页<strong class=\"theme-secondary\"></strong>",
+						"mobile":"首页<strong class=\"theme-secondary\"></strong>"}'>
+							
+						首页<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/brands/CCCChina" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"品牌家族<strong class=\"theme-secondary\"></strong>",
+						"tablet":"品牌家族<strong class=\"theme-secondary\"></strong>",
+						"mobile":"品牌家族<strong class=\"theme-secondary\"></strong>"}'>
+							
+						品牌家族<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/history" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"百年光阴<strong class=\"theme-secondary\"></strong>",
+						"tablet":"百年光阴<strong class=\"theme-secondary\"></strong>",
+						"mobile":"百年光阴<strong class=\"theme-secondary\"></strong>"}'>
+							
+						百年光阴<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/sustainability" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"可持续发展<strong class=\"theme-secondary\"></strong>",
+						"tablet":"可持续发展<strong class=\"theme-secondary\"></strong>",
+						"mobile":"可持续发展<strong class=\"theme-secondary\"></strong>"}'>
+							
+						可持续发展<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/videos" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"乐在影音<strong class=\"theme-secondary\"></strong>",
+						"tablet":"乐在影音<strong class=\"theme-secondary\"></strong>",
+						"mobile":"乐在影音<strong class=\"theme-secondary\"></strong>"}'>
+							
+						乐在影音<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            <li class="">
+	      <a href="/content/journey/cn/zh/careers" class="">
+          <span itemprop="name" data-override-size="" data-title='{
+						"desktop":"招贤纳士<strong class=\"theme-secondary\"></strong>",
+						"tablet":"招贤纳士<strong class=\"theme-secondary\"></strong>",
+						"mobile":"招贤纳士<strong class=\"theme-secondary\"></strong>"}'>
+							
+						招贤纳士<strong class="theme-secondary"></strong></span>
+                </a>
+            </li>
+            </ul>
+    </nav>
+	<nav class="secondary antialiased" role="navigation" aria-label="footer_SecondaryMenu">		
+        <ul>
+        <li class="first">
+		<a href="/our-company">
+          <span itemprop="name" data-override-size="" data-title='{"desktop":"关于我们","tablet":"关于我们","mobile":"关于我们"}' class="">关于我们</span>
+            </a>
+         </li>
+        <li class="">
+		<a href="/press-centre">
+          <span itemprop="name" data-override-size="" data-title='{"desktop":"新闻中心","tablet":"新闻中心","mobile":"新闻中心"}' class="">新闻中心</span>
+            </a>
+         </li>
+        <li class="">
+		<a href="/our-products/beveragefaq">
+          <span itemprop="name" data-override-size="" data-title='{"desktop":"饮料百科","tablet":"饮料百科","mobile":"饮料百科"}' class="">饮料百科</span>
+            </a>
+         </li>
+        <li class="">
+		<a href="/contact-us">
+          <span itemprop="name" data-override-size="" data-title='{"desktop":"联系我们","tablet":"联系我们","mobile":"联系我们"}' class="">联系我们</span>
+            </a>
+         </li>
+        <li class="">
+		<a href="/careers">
+          <span itemprop="name" data-override-size="" data-title='{"desktop":"招贤纳士","tablet":"招贤纳士","mobile":"招贤纳士"}' class="">招贤纳士</span>
+            </a>
+         </li>
+        </ul>		
+        <div id="masthead">
+            <h4 class="heading-small"></h4>
+            <a href="javascript:;" id="masthead_close_link">Close<span></span></a>
+            <ul class="authors"></ul>
+            <div class="author-social-links"></div>
+        </div>
+    </nav>
+	<div id="footer_notifications" data-loaded="false">
+	    <span class='loading'>Loading...</span>
+	</div>
+	<div class="footer-wedge-1"></div>
+	<div class="hidden-phone corporate-footer-text antialiased">
+        </div>
+    <p class="copyright gray antialiased">©2015年可口可乐公司            沪ICP备07013646</p>
+    <div class="clearfix"></div>
+     
+</footer>
+ <!--googleon: all--></div>
+</div><script type="text/javascript" src="/etc/clientlibs/granite/lodash/modern.min.js"></script>
+<script type="text/javascript" src="/etc/designs/journey/main.min.js"></script>
+<script type="text/javascript" src="/etc/designs/journey/libs/globalize/zh_CN.min.js"></script>
+<script type="text/javascript" src="/etc/designs/journey/libs/components/all_china.min.js"></script>
+<script type="text/javascript" src="/etc/designs/journey/libs/components/extra_china.min.js"></script>
+
+
+
+<script>
+$(".list-small-thumbnail.packages .item .column-left-thumbnail").css("width","90px");
+$(".list-small-thumbnail.packages .item .column-left-thumbnail").css("float","left");
+</script>
+
+
+<script>
+// Removes red overlay from country map
+$('#regional-country-selector > ul.link-list > li > a.sub-menu-link').click(function() {
+      setTimeout(function() 
+      {
+        $('#global-regional-map > div > div > div.map-container > div.overlay').remove();
+      }, 500);
+});
+</script>
+
+<script>
+//CJ-797 --China Homepage Fix.Hiding the recommended list and extra callouts.
+$(".grid-topic-filters .rl-component-wp").hide(); 
+$(".grid-topic-filters .callouts-group2").hide();
+</script>
+</body>
+</html>

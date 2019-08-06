@@ -1,0 +1,402 @@
+a {
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+
+header div {
+    max-width: 1366px;
+    margin: 0 auto;
+}
+
+header div .head .top {
+    width: 910px;
+    height: 43px;
+    background: rgb(27, 29, 24, 0.6);
+    padding: 17px 55px 0 55px;
+    background:#f4140a url(../images/微信图片_20180410200258.png)no-repeat 0 -20px;
+    overflow: hidden;
+}
+
+
+header div .head .top input {
+    float: right;
+}
+
+
+header div .head .bottom {
+    width: 1020px;
+    height: 37px;
+    margin: 0 auto;
+}
+
+header div .head .bottom nav {
+    width: 1030px;
+    height: 37px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+header div .head .bottom nav .nav_1,
+header div .head .bottom nav .nav_5{
+    box-shadow:none;
+}
+header div .head .bottom nav a {
+    display: block;
+    width: 170px;
+    height: 37px;
+    background: #ccc;
+    float: left;
+    line-height: 37px;
+    margin: 0 auto;
+    box-shadow:8px 0px 8px #888888 inset;
+}
+
+header div .head .bottom nav a:nth-of-type(5) {
+    margin-left: 0;
+    background: #333;
+    color: #fff;
+}
+
+header div .head .bottom nav a:hover {
+    background: #333;
+    color: #fff;
+    margin-left: 0px;
+    transition: .6s;
+    box-shadow:none;
+}
+
+header div .head .topxian {
+    width: 1040px;
+    border-bottom: 1px solid #ccc;
+}
+
+header .border {
+    width: 1040px;
+    height: 42px;
+    border: 1px solid rgb(173, 168, 168);
+    border-top: none;
+    margin: 0 auto;
+}
+
+header .border ul {
+    width: 980px;
+    height: 42px;
+    padding-left: 140px;
+    list-style-type: disc;
+}
+
+header .border ul li {
+    float: left;
+    margin-right: 20px;
+}
+
+header .border ul li:nth-of-type(1) {
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+header .border ul li a {
+    text-align: center;
+    font-size: 18px;
+    line-height: 42px;
+}
+
+header .border ul li a:hover {
+    color: red;
+}
+
+/* 家族开始———————————————————————— */
+
+header div .head .jiazu {
+    width: 1030px;
+    margin: 0 auto;
+}
+
+header div .head .jiazu nav {
+    display: block;
+    width: 985px;
+    height: 45px;
+    line-height: 45px;
+    padding-left: 45px;
+    margin-bottom: 25px;
+}
+
+header div .head .jiazu nav a {
+    color: red;
+    font-size: 12px;
+}
+
+header div .head .jiazu nav a:nth-of-type(3) {
+    color: #000;
+}
+
+header div .head .jiazu h1 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #4b4b4b;
+    padding-left: 45px;
+}
+
+/* 乐在影音—————————————————————————— */
+
+header div .head .jiazu .yingyin {
+    width: 1030px;
+    height: 600px;
+    border: 1px solid #ccc;
+    overflow: hidden;
+    margin-top: -120px;
+    border-top:none;
+    padding-top:100px;
+}
+
+header div .head .jiazu .yingyin .zhuti {
+    overflow: hidden;
+    width: 80px;
+    height: 25px;
+    background: #f40009;
+    margin-top: 52px;
+}
+
+header div .head .jiazu .yingyin .zhuti li {
+    width: 80px;
+    height: 25px;
+    background: #f40009;
+    margin-bottom: -50px;
+    overflow: hidden;
+    border: none;
+}
+
+header div .head .jiazu .yingyin .zhuti li a {
+    font-weight: 900;
+    background: #f40009;
+    color: #fff;
+    line-height: 24px;
+    font-size: 16px;
+    overflow: hidden;
+}
+
+header div .head .jiazu .yingyin ul {
+    margin: 90px -120px 0px 40px;
+    float: left;
+    overflow: hidden;
+}
+
+header div .head .jiazu .yingyin ul li {
+    width: 185px;
+    background: #f8f8f8;
+    border: 1px solid #ccc;
+    text-align: center;
+    line-height: 60px;
+}
+
+header div .head .jiazu .yingyin ul li:nth-of-type(1) {
+    background: #e7e7e7;
+}
+
+header div .head .jiazu .yingyin ul li:hover {
+    background: #e7e7e7;
+}
+
+header div .head .jiazu .yingyin ul li a {
+    font-size: 12px;
+    font-weight: none;
+    color: #4b4b4b;
+    display: block;
+    text-align: center;
+    font-weight: bold;
+}
+
+header div .head .jiazu .yingyin .right {
+    width: 770px;
+    height: 600px;
+    /* border: 1px sloid rgb(176, 70, 70); */
+    background: #f6f6f6;
+    float: left;
+    overflow: hidden;
+    margin: 40px 0 0 120px;
+    position: relative;
+}
+
+/* 按钮———————————————————————— */
+
+header div .head .jiazu .yingyin .right b a {
+    padding: 6px 10px;
+    background: #f40009;
+    text-align: left;
+    margin-left: -5px;
+    color: #fff;
+}
+
+header div .head .jiazu .yingyin .right b a:hover {
+    background: #333;
+    transition: 1s;
+}
+
+header div .head .jiazu .yingyin .right h4 {
+    color: #f40009;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+header div .head .jiazu .yingyin .right p {
+    margin: 0 0 10px 15px;
+    color: #4b4b4b;
+}
+
+header div .head .jiazu .yingyin .right span b {
+    color: #4b4b4b;
+    margin-left: 15px;
+}
+
+/* 鹿晗—————————————————————————— */
+
+header div .head .jiazu .yingyin .right .video {
+    width: 770px;
+    margin: 0 auto;
+}
+
+/* 上级自己加的边框和HOVER 去掉———————————————— */
+
+header div .head .jiazu .yingyin .right .video li {
+    border: none;
+    background: none;
+}
+
+header div .head .jiazu .yingyin .right .video li:hover {
+    background: none;
+}
+
+/* 这里结束—————————————————— */
+
+header div .head .jiazu .yingyin .right .video li a {
+    height: 300px;
+    border-bottom: 2px solid #ccc;
+    margin: 0 auto;
+}
+
+header div .head .jiazu .yingyin .right .video li a h2 {
+    font-size: 18px;
+    font-weight: bold;
+    color: #4b4b4b;
+    margin-top: -40px;
+    text-align: left;
+}
+
+header div .head .jiazu .yingyin .right .video li a span {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ccc;
+    text-align: left;
+    display: block;
+    margin-top: -36px;
+}
+
+header div .head .jiazu .yingyin .right .video li a p {
+    font-size: 14px;
+    color: #000;
+    text-align: left;
+    margin-top: -20px;
+    line-height: 18px;
+    font-weight: 100;
+    margin-left: 0;
+}
+
+header div .head .jiazu .yingyin .right .video li a h6 {
+    color: #f40009;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: left;
+}
+
+header div .head .jiazu .yingyin .right .video li:nth-of-type(1)a>h6 {
+    margin-top: 40px;
+}
+
+header div .head .jiazu .yingyin .right .video li:nth-of-type(1) {
+    width: 230px;
+    height: 248px;
+    position: absolute;
+    top: 240px;
+    left: 20px;
+}
+
+header div .head .jiazu .yingyin .right .video li:nth-of-type(2) {
+    width: 230px;
+    height: 248px;
+    position: absolute;
+    top: 240px;
+    left: 270px;
+}
+
+header div .head .jiazu .yingyin .right .video li:nth-of-type(3) {
+    width: 230px;
+    height: 248px;
+    position: absolute;
+    top: 240px;
+    right: 20px;
+}
+
+body .hr {
+    width: 1030px;
+    height: 8px;
+    background: #ccc;
+    text-align: center;
+    margin: 80px auto;
+}
+
+body .hr>h2 {
+    display: block;
+    width: 320px;
+    height: 60px;
+    background: #fff;
+    font-size: 34px;
+    color: #4b4b4b;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 10px;
+}
+
+body .taste a img {
+    transform: scale(1);
+}
+
+body .taste a:hover img {
+    transform: scale(1.2);
+}
+
+footer {
+    width: 1100px;
+    height: 165px;
+    margin: 20px auto 0;
+}
+
+footer .foot_1 {
+    width: 1100px;
+    height: 80px;
+    background: #900E0E;
+    text-align: center;
+    padding-top: 25px;
+    color: #c91717;
+}
+
+footer .foot_1 a {
+    line-height: 35px;
+    font-family: '宋体';
+    font-weight: 600;
+    color: #fff;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+footer .foot_2 {
+    width: 1060px;
+    height: 23px;
+    background: #a31a1a;
+    padding: 37px 0 0 40px;
+}
+
+footer .foot_2 b {
+    color: #fff;
+    font-size: 14px;
+}

@@ -1,0 +1,577 @@
+a {
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+
+p {
+    font-size: 14px;
+}
+
+body {}
+
+header div {
+    max-width: 1366px;
+    margin: 0 auto;
+}
+
+header div .head .top {
+    width: 1015px;
+    height: 43px;
+    background: rgb(27, 29, 24, 0.6);
+    padding: 17px 55px 0 55px;
+    background:#f4010a url(../images/微信图片_20180410200258.png)no-repeat 0 -20px;
+    overflow: hidden;
+}
+
+header div .head .top select:nth-of-type(1) {}
+
+header div .head .top input {
+    float: right;
+}
+
+header div .head .center {
+    width: 1125px;
+    height: 120px;
+    background: url(../images/201603.jpg) repeat-x;
+}
+
+header div .head .bottom {
+    width: 1125px;
+    height: 37px;
+    margin: 0 auto;
+}
+
+header div .head .bottom nav {
+    width: 1125px;
+    height: 37px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header div .head .bottom nav a {
+    display: block;
+    width: 187px;
+    height: 37px;
+    background: #ccc;
+    float: left;
+    line-height: 37px;
+    box-shadow:8px 0px 8px #888888 inset;
+    
+}
+header div .head .bottom nav .nav_1{
+    padding-right: 3px;
+    box-shadow:none;
+}
+header div .head .bottom nav a:nth-of-type(1) {
+    margin-left: 0;
+    background: #333;
+    color: #fff;
+}
+
+header div .head .bottom nav a:hover {
+    background: #333;
+    color: #fff;
+    margin-left: 0px;
+    transition: .6s;
+    box-shadow:none;    
+}
+
+header div .head .topxian {
+    width: 1137px;
+    border-bottom: 1px solid #ccc;
+}
+
+/* 头部结束———————————————————————————— */
+
+.body {
+    margin: 0 auto;
+}
+
+.body>div {
+    width: 1125px;
+    margin: 0 auto;
+}
+
+.body div .border {
+    width: 1130px;
+    height: 42px;
+    border: 1px solid rgb(144, 138, 138);
+    border-top: none;
+}
+
+.body div .border ul {
+    width: 980px;
+    height: 42px;
+    padding-left: 150px;
+    list-style-type: disc;
+}
+
+.body div .border ul li {
+    float: left;
+    margin-left: 20px;
+}
+
+.body div .border ul li:nth-of-type(1) {
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+.body div .border ul li a {
+    text-align: center;
+    font-size: 18px;
+    line-height: 42px;
+}
+
+.body div .border ul li a:hover {
+    color: red;
+}
+
+.body div .lunbotu .hr {
+    width: 1100px;
+    height: 10px;
+    margin: 0 auto;
+    background: #cfcfcf;
+}
+
+.body div .lunbotu .hr h2 {
+    width: 265px;
+    height: 75px;
+    text-align: center;
+    background: #fff;
+    font-size: 30px;
+    font-weight: 900;
+    color: #4b4b4b;
+    display: block;
+    margin: 50px auto 0;
+    line-height: 5px;
+}
+
+.body div .lunbotu .ul {
+    width: 1130px;
+    margin: 50px 0 0 0;
+    overflow: hidden;
+}
+
+.body div .lunbotu .ul .left {
+    float: left;
+    overflow: hidden;
+}
+
+.body div .lunbotu .ul .left img {
+    transform: scale(1);
+    overflow: hidden;
+}
+
+.body div .lunbotu .ul .left:hover img {
+    transform: scale(1.1);
+}
+
+.body div .lunbotu .ul .right {
+    margin-left: 20px;
+    float: left;
+    overflow: hidden;
+}
+
+/* 2D__开始————————————————————————*/
+
+/* .body div .lunbotu .ul .right img{
+    transform: scale(1);
+    overflow: hidden;  
+
+}
+.body div .lunbotu .ul .right:hover img{
+    transform: scale(1.1);
+} */
+
+/* 2D结束—————————————————————— */
+
+.body div .lunbotu .ul .right p {
+    width: 325px;
+    height: 30px;
+    font-weight: 900;
+    color: #fff;
+    background: #f43009;
+    line-height: 30px;
+    padding-left: 20px;
+    margin-top: -5px;
+}
+
+.body div .lunbotu .ul .right span {
+    width: 305px;
+    height: 58px;
+    display: block;
+    background: #f4f4f4;
+    padding: 20px 20px;
+}
+
+.body div .lunbotu .ul .right span a {
+    color: #585858;
+    font-size: 14px;
+}
+
+.body div .lunbotu .ul .right span a:hover {
+    color: #f43009;
+}
+
+/* ——————————————————————资讯———————————————————— */
+
+.body div .lunbotu .zixun {
+    width: 1130px;
+    margin: 40px auto 0;
+    overflow: hidden;
+}
+
+.body div .lunbotu .zixun .re-left {
+    width: 328px;
+    float: left;
+}
+
+.body div .lunbotu .zixun .re-left ul {
+    width: 328px;
+    overflow: hidden;
+}
+
+.body div .lunbotu .zixun .re-left ul li:nth-of-type(1) {
+    width: 285px;
+    height: 46px;
+    background: #f40009;
+    line-height: 61px;
+    padding-left: 20px;
+    color: #fff;
+}
+
+.body div .lunbotu .zixun .re-left ul li {
+    width: 276px;
+    background: #f4f4f4;
+    border: 1px solid #ccc;
+    font-weight: 900;
+    font-size: 25px;
+    color: #4b4b4b;
+    padding: 10px 20px 30px 20px;
+    overflow: hidden;
+    border-top: none;
+}
+
+.body div .lunbotu .zixun .re-left ul li b {
+    width: 26px;
+    height: 38px;
+    font-weight: 900;
+    font-size: 30px;
+    color: #4b4b4b;
+    padding: 0px 13px 0px 0px;
+    display: block;
+    float: left;
+}
+
+.body div .lunbotu .zixun .re-left ul li a {
+    font-size: 16px;
+    color: #4b4b4b;
+    height: 34px;
+    text-align: left;
+    display: block;
+}
+
+.body div .lunbotu .zixun .re-left ul li>a:hover {
+    color: #f40009;
+    transition: .7s;
+}
+
+/* ——————————右边———————————————————— */
+
+.body div .lunbotu .zixun .re-you {
+    width: 777px;
+    float: left;
+    padding-left: 25px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.body div .lunbotu .zixun .re-you>a {
+    width: 760px;
+    margin: 0 auto;
+    display: block;
+    height: 25px;
+    text-align: left;
+    overflow: hidden;
+}
+
+.body div .lunbotu .zixun .re-you .right_b {
+    width: 777px;
+    margin: 0 auto;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul {
+    width: 790px;
+}
+
+.body div .lunbotu .zixun .re-you ul li {
+    overflow: hidden;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(1) {
+    width: 500px;
+    height: 422px;
+    overflow: hidden;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li span {
+    width: 490px;
+    height: 35px;
+    background: rgb(137, 88, 162, .7);
+    display: block;
+    position: absolute;
+    top: 244px;
+    left: 25px;
+    font-weight: bold;
+    color: #fff;
+    padding-left: 10px;
+    line-height: 35px;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li .text-2 {
+    display: block;
+    width: 480px;
+    height: 130px;
+    background: #f4f4f4;
+    overflow: hidden;
+    text-align: left;
+    padding: 10px 10px 0px 10px;
+    margin-top: -5px;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li .text-2:hover {
+    color: #f40009;
+    transition: .7s;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(2) {
+    position: absolute;
+    top: 25px;
+    right: 10px;
+    width: 245px;
+    overflow: hidden;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(2) span {
+    width: 243px;
+    height: 35px;
+    background: rgba(0, 153, 0, 0.7);
+    margin: -23px 0 0 -25px;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(2) .text-3 {
+    width: 243px;
+    height: 130px;
+    display: block;
+    padding: 10px 10px 0 10px;
+    text-align: left;
+    background: #f4f4f4;
+    margin-top: -5px;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(2) .text-3:hover {
+    color: #f43009;
+    transition: .7s;
+    float: left;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(3) {
+    float: left;
+    overflow: hidden;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(4) {
+    width: 242px;
+    height: 400px;
+    background: #f4f4f4;
+    float: left;
+    margin-left: 10px;
+    padding: 0 10px 0 10px;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(4) h2, .body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(5) h2 {
+    display: block;
+    width: 250px;
+    height: 35px;
+    background: #f40009;
+    line-height: 35px;
+    margin: 25px 0 15px -10px;
+    padding-left: 12px;
+    color: #fff;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(4) h2 {
+    background: #ff3399;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(5) {
+    width: 242px;
+    height: 400px;
+    background: #f4f4f4;
+    float: left;
+    margin-left: 20px;
+    padding: 0 10px 0 10px;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(4)>a, .body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(5)>a {
+    font-size: 18px;
+    /* font-weight:bold; */
+    text-align: left;
+    line-height: 20px;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(4)>a p, .body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(5)>a p {
+    font-size: 14px;
+    text-align: left;
+}
+
+.body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(4)>a:hover, .body div .lunbotu .zixun .re-you .right_b ul li:nth-of-type(5)>a:hover {
+    color: #f43009;
+    transition: 0.7s;
+}
+
+/*———————— 图片分享—————————————————————— */
+
+.body .taste {
+    width: 1090px;
+    /* background: greenyellow; */
+    margin: 20px auto 0;
+    overflow: hidden;
+}
+
+.body .taste h2 {
+    font-size: 20px;
+    font-weight: 900;
+    color: #f40009;
+    text-align: center;
+}
+
+.body .taste p {
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.body .taste ul {
+    width: 1090px;
+    overflow: hidden;
+}
+
+.body .taste ul li {
+    float: left;
+    margin: 5px 0 0 8px;
+    overflow: hidden;
+    position: relative;
+}
+
+.body .taste ul li:nth-of-type(1), .body .taste ul li:nth-of-type(6), .body .taste ul li:nth-of-type(11) {
+    margin: 5px 0 0px 8px;
+}
+
+.body .taste ul li a .ying {
+    width: 210px;
+    height: 220px;
+    background: rgba(181, 185, 175, 0.2);
+    position: absolute;
+    bottom: 210px;
+    left: 0px;
+    transition: .7s;
+}
+
+.body .taste ul li:hover .ying {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+/*—————————————— UL图片hover—————————————— */
+
+.body .taste ul li img {
+    transform: scale(1);
+    transition: all 1s;
+}
+
+.body .taste ul li:hover img {
+    transform: scale(1.2);
+}
+
+.body .taste .chakan {
+    width: 150px;
+    height: 65px;
+    background: url(../images/201908.png)no-repeat 20px 30px red;
+    margin: 25px auto 0;
+    background-size: 11px 11px;
+    overflow: hidden;
+}
+
+.body .taste .chakan>a {
+    display: block;
+    width: 150px;
+    height: 65px;
+    line-height: 65px;
+    font-weight: 900;
+    font-size: 20px;
+    color: #fff;
+}
+
+.body .taste .chakan:hover {
+    width: 150px;
+    height: 65px;
+    background: url(../images/201907.png)no-repeat 20px 30px #333;
+    transition: 0.7s;
+    background-size: 11px 11px;
+}
+
+.body .video {
+    width: 1150px;
+    margin: 0 auto;
+}
+
+.body .video a img {
+    margin: 10px 0 10px 15px;
+}
+
+.body .video a:nth-child(1) img, .body .video a:nth-child(2) img {
+    margin-left: 0px;
+    /* transform:scale(1);
+    overflow: hidden; */
+}
+
+footer {
+    width: 1100px;
+    height: 165px;
+    margin: 20px auto 0;
+}
+
+footer .foot_1 {
+    width: 1100px;
+    height: 80px;
+    background: #900E0E;
+    text-align: center;
+    padding-top: 25px;
+    color: #c91717;
+}
+
+footer .foot_1 a {
+    line-height: 35px;
+    font-family: '宋体';
+    font-weight: 600;
+    color: #fff;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+footer .foot_2 {
+    width: 1060px;
+    height: 23px;
+    background: #a31a1a;
+    padding: 37px 0 0 40px;
+}
+
+footer .foot_2 b {
+    color: #fff;
+    font-size: 14px;
+}

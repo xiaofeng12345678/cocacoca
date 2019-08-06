@@ -1,0 +1,54 @@
+// Collection.js
+//-----------------
+// Decorates Array/List with Collection functionality which wraps _.
+//
+// Depends:
+//  - underscore.js
+
+define('videoDirectoryCollection', [], function () {
+
+return  function (models){
+    
+    var items = models;
+    
+    // Returns all of the items in this Collection
+    var all = function () {
+        return items;
+    };
+
+    // Sorts Items by the key specified. 
+    // Optionally you can pass the rank or either "ascending" or "descending"
+    // It defaults to "descending"
+    var sort_by = function (key, rank){
+
+        // default rank value, or use the argument if it exists
+        rank = rank || "descending";
+        
+        // sort
+        items = _.sortBy(items, function(item){
+            return item[key];
+        });
+
+        // flip the sort based on rank
+        if (rank === "descending"){
+            items = items.reverse();
+        }
+    };
+
+    var add = function (item){
+        items.push(item);
+    };
+
+    var size = function (){
+        return items.length;
+    };
+
+    return {
+        all: all,
+        add: add,
+        size: size,
+        sort_by: sort_by
+    };
+};
+
+});

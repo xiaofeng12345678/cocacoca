@@ -1,0 +1,353 @@
+a {
+    text-align: center;
+    color: #000;
+    text-decoration: none;
+}
+
+header div {
+    max-width: 1366px;
+    margin: 0 auto;
+}
+
+header div .head .top {
+    width: 910px;
+    height: 43px;
+    background: rgb(27, 29, 24, 0.6);
+    padding: 17px 55px 0 55px;
+    background:#f4010a url(../images/微信图片_20180410200258.png)no-repeat 0 -20px;
+    overflow: hidden;
+}
+
+header div .head .top input {
+    float: right;
+}
+
+header div .head .bottom {
+    width: 1020px;
+    height: 37px;
+    margin: 0 auto;
+}
+
+header div .head .bottom nav {
+    width: 1030px;
+    height: 37px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
+header div .head .bottom nav a {
+    display: block;
+    width: 170px;
+    height: 37px;
+    background: #ccc;
+    float: left;
+    line-height: 37px;
+    margin: 0 auto;
+    box-shadow:8px 0px 8px #888888 inset;
+}
+header div .head .bottom nav .nav_6{
+    margin-left: 0;
+    background: #333;
+    color: #fff;
+    box-shadow: none;
+}
+
+header div .head .bottom nav a:hover {
+    background: #333;
+    color: #fff;
+    margin-left: 0px;
+    transition: .6s;
+    box-shadow: none;
+}
+header div .head .bottom nav .nav_1{
+    box-shadow: none;
+
+}
+header div .head .topxian {
+    width: 1040px;
+    border-bottom: 1px solid #ccc;
+}
+
+header .border {
+    width: 1040px;
+    height: 42px;
+    border: 1px solid rgb(173, 168, 168);
+    border-top: none;
+    margin: 0 auto;
+}
+
+header .border ul {
+    width: 980px;
+    height: 42px;
+    padding-left: 140px;
+    list-style-type: disc;
+}
+
+header .border ul li {
+    float: left;
+    margin-right: 20px;
+}
+
+header .border ul li:nth-of-type(1) {
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+header .border ul li a {
+    text-align: center;
+    font-size: 18px;
+    line-height: 42px;
+}
+
+header .border ul li a:hover {
+    color: red;
+}
+
+/* znnasi——————————————————————— */
+
+header div .head .jiazu {
+    width: 1030px;
+    margin: 0 auto;
+}
+
+header div .head .jiazu nav {
+    display: block;
+    width: 985px;
+    height: 5px;
+    line-height: 45px;
+    padding-left: 45px;
+    margin-bottom: 25px;
+}
+
+header div .head .jiazu nav a {
+    color: red;
+    font-size: 12px;
+}
+
+header div .head .jiazu nav a:nth-of-type(2) {
+    color: #000;
+}
+
+header div .head .jiazu h1 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #4b4b4b;
+    padding-left: 45px;
+}
+header div .head .jiazu>.hr{
+    margin-bottom: 25px;
+}
+header div .head .jiazu .nav2{
+    text-align: center;
+    padding: 8px 10px;
+    margin-bottom: 50px;
+}
+header div .head .jiazu .nav2 a{
+    text-align: center;
+    padding: 8px 10px;
+    color: #4b4b4b;
+    font-size: 16px;
+    font-weight: bold;
+}
+header div .head .jiazu .nav2 a:hover{
+    background: #f40009;
+    color: #fff;
+}
+header div .head .jiazu .nav2 a:nth-of-type(1){
+    background: #f40009;
+    color: #fff;
+}
+header div .head .jiazu .nav2 a:nth-of-type(2){
+    color: #4b4b4b;
+    border-right: 1px solid #ccc;
+}
+header div .head .jiazu .nav2 a:nth-of-type(3){
+    border-right: 1px solid #ccc;
+}
+header div .head .jiazu .nav2 a:nth-of-type(2):hover{
+    color: #fff;
+}
+/* 招贤纳士开始—————————————————————————— */
+body .zixun {
+    width: 1040px;
+    margin: 40px auto 0;
+    overflow: hidden;
+}
+body .zixun .re-left {
+    width: 350px;
+    float: right;
+    margin: 0px;
+}
+
+body .zixun .re-left ul {
+    width: 350px;
+    overflow: hidden;
+}
+
+body .zixun .re-left ul .remen a{
+    line-height: 61px;
+    padding-left: 20px;
+    color: #fff;
+    margin-right: 0;
+    font-size: 20px;
+}
+body .zixun .re-left ul .remen{
+    padding:0px;
+    width: 351px;
+    height: 62px;
+    background: #f40009;
+}
+
+body .zixun .re-left ul li {
+    width: 315px;
+    background: #f4f4f4;
+    border: 1px solid #ccc;
+    font-weight: 900;
+    font-size: 25px;
+    color: #4b4b4b;
+    padding: 0px 20px 35px 0px;
+    overflow: hidden;
+    border-top: none;
+    margin-right: 0;
+}
+body .zixun .re-left ul li:hover a{
+    color: #f40009;
+    transition: .7s;
+}
+body .zixun .re-left ul .remen:hover a{
+    text-decoration: underline;
+    color: #fff;
+}
+body .zixun .re-left ul li b {
+    width: 73px;
+    height: 38px;
+    font-weight: 900;
+    font-size: 30px;
+    color: #4b4b4b;
+    padding: 0px 13px 0px 0px;
+    display: block;
+    float: left;
+
+}
+
+body .zixun .re-left ul li a {
+    font-size: 16px;
+    color: #4b4b4b;
+    height: 34px;
+    text-align: left;
+    display: block;
+}
+
+/* 右边开始———————————————————————— */
+body .zixun .re-right h1{
+    line-height: 42px;
+    font-size: 28px;
+    color:#4b4b4b;
+    font-weight: bold;
+    float: left;
+    margin-bottom: 50px;
+}
+body .zixun .re-right p{
+    width: 528px; height: 5px;
+    background: #ccc;
+    float: left;
+    margin:25px 0 0 25px; 
+}
+body .zixun .re-right{
+    width: 670px; height: 320px;
+    overflow: hidden;  
+    border-bottom:5px solid #ccc; 
+    text-align: left;
+    margin-bottom: 30px;
+}
+body .zixun .re-right .men{
+    width: 100%;
+    list-style: disc inside;
+    position: relative;
+    
+}
+body .zixun .re-right .men li{
+    width:100%;
+    overflow: hidden;
+    line-height: 30px;
+    font-weight: bold;
+    margin-left: 5px;
+    
+}
+body .zixun .re-right .men .ditu{
+    position:absolute;
+    right:-170px; top:100px;
+    
+}
+body .zixun .re-right .men .ditu{
+    list-style:none;
+}
+body .zixun .re-right .men li a{
+    color:#f40009;
+}
+body .zixun .re-right .men a:hover{
+    text-decoration: underline;
+}
+body .hr {
+    width: 1030px;
+    height: 8px;
+    background: #ccc;
+    text-align: center;
+    margin: 80px auto;
+}
+
+body .hr>h2 {
+    display: block;
+    width: 320px;
+    height: 60px;
+    background: #fff;
+    font-size: 34px;
+    color: #4b4b4b;
+    font-weight: bold;
+    margin: 0 auto;
+    line-height: 10px;
+}
+
+body .taste a img {
+    transform: scale(1);
+}
+
+body .taste a:hover img {
+    transform: scale(1.2);
+}
+
+footer {
+    width: 1100px;
+    height: 165px;
+    margin: 20px auto 0;
+}
+
+footer .foot_1 {
+    width: 1100px;
+    height: 80px;
+    background: #900E0E;
+    text-align: center;
+    padding-top: 25px;
+    color: #c91717;
+}
+
+footer .foot_1 a {
+    line-height: 35px;
+    font-family: '宋体';
+    font-weight: 600;
+    color: #fff;
+    margin-left: 10px;
+    font-size: 14px;
+}
+
+footer .foot_2 {
+    width: 1060px;
+    height: 23px;
+    background: #a31a1a;
+    padding: 37px 0 0 40px;
+}
+
+footer .foot_2 b {
+    color: #fff;
+    font-size: 14px;
+}

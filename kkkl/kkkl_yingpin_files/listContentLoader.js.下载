@@ -1,0 +1,76 @@
+/* 
+
+	ListContentLoader
+	`````````````````
+
+	This object pairs with List Contents Ajax API. Details are here: /apidocs/listContents.txt
+	It's purpose is to serve as a Javascript mechanism for requesting generic published content.
+
+	
+*/
+
+define('listContentLoader', ['tccc'], 
+function (tccc){
+
+	return function (url, resourceId){
+		return {
+			
+			/*
+				- url: the url of the endpoint
+				- resourceId: the id/name/title whatever of the resource you want (optional)
+				- params: the current state of the query params
+			*/
+			_url: url,
+			_resourceId: resourceId || '',
+			_params: {},
+
+			// Public API
+			url: function (url){
+				if (typeof url !== undefined){
+					this._url = url;
+				}
+				else {
+					return this._url;
+				}
+			},
+
+			/* 
+				Set or Get query params
+					- params (Object): the query params you want to be stuck to the request (optional)
+			*/
+			params: function (params){
+				this._params = params;
+			},
+
+			/* 
+
+				General purpose GET method.
+				Can be called repeatedly and will implicitly step the offset state
+				based on the response data.
+
+			*/
+			get: function(){
+
+				var 
+					self = this;
+					url = self._url,
+					data = self._params;
+
+				if (self._resourceId && (self._resourceId.length > 0)){
+					// assumes all urls already include a trailing slash
+					url += self._resourceId;
+				}
+
+				return $.getJSON(url, data)
+							.done(function (resp){
+								// get the new offset and update the params state
+							})
+							.fail(function (resp){
+					            console.warn("!! Something went wrong while trying to get your content: ", resp);
+				        	});
+			}
+
+		};
+	};
+
+});

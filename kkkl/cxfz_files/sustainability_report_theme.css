@@ -1,0 +1,439 @@
+
+    @import url(https://fonts.googleapis.com/css?family=Varela+Round);
+
+
+html div.wrapper {
+border: 0;
+}
+
+html.mobile .wrapper {
+padding: 0;
+}
+
+#article a{
+    text-decoration: underline;
+}
+
+
+    .theme-bg-secondary-module {
+    
+        background-image: url("/content/dam/journey/cn/zh/private/themes/sustainability/Sustainability-LgThumb-bkgd.jpg");
+    background-repeat: repeat;
+    }
+
+     .theme-bg-banner {
+    
+        height: 135px;
+        background-image: url("/content/dam/journey/cn/zh/private/themes/sustainability/Sustainability-MOBILE-banner.jpg");
+    background-repeat: no-repeat;
+    }
+
+    html.big_desktop .theme-bg-banner, html.desktop .theme-bg-banner {
+    
+        height:135px;
+        background-image: url("/content/dam/journey/cn/zh/private/themes/sustainability/Sustainability2017071801.jpg");
+    margin-bottom: 0;
+    }
+
+    html.tablet .theme-bg-banner {
+    
+        height:135px;
+        background-image: url("/content/dam/journey/cn/zh/private/themes/sustainability/Sustainability2017071801.jpg");
+    
+    }
+
+    html.theme-bg-main.mobile,
+    html.theme-bg-main.tablet,
+    .theme-bg-main {
+    
+        background-image: url("/content/dam/journey/cn/zh/private/20170726001.jpg");
+    background-color: #030303;
+background-position: center -55px;
+background-repeat: repeat;
+
+    }
+
+    .wrapper .theme-color-primary,
+    .wrapper .theme-color-title,
+    .wrapper .theme-main-title,
+    .wrapper .theme-color-section-title {
+    color: #111111;
+    }
+
+    .wrapper .theme-color-secondary,
+    .wrapper .theme-secondary,
+    .wrapper .theme-secondary-link,
+    .wrapper .theme-secondary-link a,
+    .wrapper .rich-text a,
+    .wrapper .theme-contrast .theme-color-secondary,
+    .wrapper .article-blog-template .article-content .articleBody a,
+    .wrapper .recipe-template .article-content .articleBody a,
+    .wrapper .theme-contrast .theme-secondary,
+    .wrapper .packages-t-t a.topic-image .poster-overlay .icon-play,
+    .wrapper .m-stay-sip .side-navigation-colum i,
+    .wrapper .trending-topic .module-base .trending-top-ten > li .truncate strong.theme-secondary,
+    .wrapper .list-large-thumbnail .thumbnail .poster-overlay .icon-play,
+    .wrapper .list-large-thumbnail .thumbnail .poster-overlay .rsPlayBtnIcon {
+    color: #006600;
+    }
+
+    .wrapper .subNavWrapper li a {
+    color: #006600;
+    }
+
+    .wrapper .subNavWrapper li.selected a {
+    color: #FFF;
+    }
+
+    .wrapper .theme-bg-primary {
+    background-color: #006600;
+    }
+
+    .wrapper .skyscraper-list .banner {
+    background-color: #006600;
+    }
+
+    .wrapper .button {
+    background-color: #006600;
+    }
+
+    .wrapper .button:hover {
+    background-color: #006600;
+    }
+
+    .wrapper .theme-main-rgba {
+    background: rgb(4,4,4) transparent;
+/* RGBa with 0.7 opacity */
+background: rgba(4,4,4, 0.75);
+/* For IE 8*/
+background: url(/img/tiles/bg-tile-black-80.png)\0/;
+    }
+
+    .asset-content a {
+    color: #000000;
+background-color: #fff;
+    }
+
+    .wrapper .theme-contrast .theme-color-primary {
+    color: #669900;
+    }
+
+    .wrapper .theme-contrast .theme-color-secondary {
+    color: #000000;
+    }
+
+    .wrapper nav.breadcrumb a {
+    color: #000000;
+    }
+
+    .wrapper  nav.breadcrumb .active span,
+    .wrapper nav.breadcrumb a:hover {
+    color: #006600;
+    }
+
+    .wrapper .theme-font-section-title,
+    .wrapper .subNav ul.subNavTopLevel,
+    .wrapper p.title-description,
+    .wrapper .theme-main-title,
+    .wrapper .theme-color-section-title,
+    .wrapper .skyscraper-list .banner span,
+    .article-blog-template .articleBody > h1,
+    .article-blog-template .articleBody > h2,
+    .article-blog-template .articleBody > h3,
+    .article-blog-template .articleBody > div > h1,
+    .article-blog-template .articleBody > div > h2,
+    .article-blog-template .articleBody > div > h3,
+    .article-blog-template .articleBody .sub-title {
+    font-family: 'Varela Round', sans-serif;
+    }
+/* Add additional margin to Packages Content */
+.packages-and-verticals-template .packages-content {
+    margin-top: 24px;
+}
+
+/* Breadcrumbs color overwrite */
+.breadcrumb ol {
+    color: #000000;
+}
+
+/* Subnav overwrites */
+.subNav.packagesContent li a {
+    text-transform: capitalize;
+}
+
+.rsBullet:before {
+    position: relative;
+    display: block;
+    margin: -21px 0;
+    content: "\2022";
+    color: #111111;
+    font-size: 48px !important;
+}
+
+.rsBullet.rsNavSelected:before {
+    position: relative;
+    display: block;
+    margin: -21px 0;
+    content: "\2022";
+    color: #00a151;
+    font-size: 48px !important;
+}
+
+.rsBullet {
+    background: transparent !important;
+}
+
+/* When rendered in an Article template, the RoyalSlider bullets need to have a different color scheme */
+.article .rsBullet:before {
+    color: #00a151;
+}
+
+.article .rsBullet.rsNavSelected:before {
+    color: #00a151;
+    margin: 0 !important;
+}
+
+.article .rsBullet {
+    background: transparent !important;
+}
+.article .rsBullet span {
+    display: none !important;
+    line-height: 100% !important;
+}
+
+.selectboxit-arrow-container {
+    background-color: #111111;
+}
+
+/* Links inside the article body (usually from referential text) */
+section article a {
+    color: #00a151;
+}
+
+/* CONTENT DIRECTORY OVERRIDES */
+/* Force the main theme color onto the selected item in the content directory filter items list */
+#video-topics li.item.selected a span {
+    color: #111111 !important;
+}
+
+/* Force the link theme color onto the un-selected items in the content directory filter items list */
+#video-topics li.item a span {
+    color: #00a151 !important;
+}
+
+/* Force the background fill on the content directory to be white instead of the default light grey */
+#video-directory .column .fill {
+    background: #fff !important;
+}
+
+#video-topics li.item.selected {
+    background: #fff !important;
+}
+
+#video-topics li.item:hover {
+    background: #fff !important;
+}
+
+.promo-slideshow-container .rsNav {
+    height: 17px !important;
+    bottom: 10px !important;
+}
+
+.rsDefault .rsBullets {
+    line-height: 39px;
+}
+
+/* When rendered in an Article template, the RoyalSlider bullets need to have more top padding */
+.article .rsDefault .rsBullet {
+    padding-top: 10px !important;
+}
+
+.article .rsDefault .rsBullets {
+    line-height: 0px !important;
+}
+
+/* For the Simple Text module */
+/* Main theme attributes */
+.simple-text-module h2 {
+    color: #00a151;
+    font-family: 'Montserrat', serif;
+    font-weight: bolder;
+    text-transform: uppercase
+}
+
+.simple-text-module h2 strong, .simple-text-module h2 b {
+    color: #222222;
+}
+
+/* Secondary theme attributes */
+.simple-text-module h3 {
+    color: ##00a151;
+    font-family: "Arial Black", "Arial";
+}
+
+.simple-text-module h3 strong,
+.simple-text-module h3 b {
+    color: #222222;
+}
+
+/* Link theme attributes */
+.simple-text-module a {
+    color: #00a151;
+    text-decoration: none;
+}
+
+/* Must Read Module */
+.must-read-module li a {
+    color: #00a151;
+    text-decoration: none;
+}
+
+.layout-1x3 {
+    padding-top: 30px;
+}
+
+.wrapper .button:hover {
+    background-image: url("/content/dam/journey/us/en/private/themes/sustainability-report/gradient-btn.png");
+    opacity: 0.8;
+    background-color: #33ade0 !important;
+}
+
+.promo .overlay h3 strong {
+    color: #FFF !important;
+}
+
+.list-large-thumbnail .headline span.content-body {
+    color: #000 !important;
+}
+
+.media-caption p.title-description strong,
+.media-caption p.title-description {
+    color: #FFF !important;
+}
+
+.heading-xlarge {
+    font-size: 27px;
+}
+
+.wrapper .skyscraper-list .banner {
+    font-size:16px!important;
+}
+
+.list-large-thumbnail h2,
+.list-large-thumbnail h2 strong,
+.list-large-thumbnail .headline,
+.list-large-thumbnail .headline span,
+.list-large-thumbnail .headline span strong,
+.list-large-thumbnail .headline span.content-body {
+    color: #000 !important;
+}
+
+.smart-slideshow .media-container .rsArrow .rsArrowIcn{
+    background: url('/content/dam/journey/us/en/private/themes/history/lead-media-arrows-gray.png') no-repeat !important;
+}
+
+.lead-media .media-container .rsArrow .rsArrowIcn {
+    background: url('/content/dam/journey/us/en/private/themes/history/lead-media-arrows-gray.png')  no-repeat 16px center;
+}
+
+#article a {
+    text-decoration: none;
+}
+
+.article-blog-template .articleBody > p a,
+.article-blog-template .articleBody > div > p a {
+    text-decoration: none;
+}
+
+
+.byline-asset span.theme-secondary-link a,
+.more-on-journey ul li a span {
+    color: #111111 !important; 
+}
+
+
+ 
+
+.related-content .title span {
+    color: #000;
+}
+
+.recommended-tab a .icon-double-angle-right {
+  color: #006600;
+}
+
+
+html.tablet .recommended-tab,
+html.desktop .recommended-tab,
+html.big_desktop .recommended-tab {
+  position: absolute;
+  display: none;
+  width: 353px;
+  height: 160px;
+  right: 0;
+  bottom: 0;
+  z-index: 100000;
+  border: 1px solid #000;
+  border-top: 5px solid #006600;
+  background: #fff;
+  box-shadow: 5px 2px 4px 4px rgba(0, 0, 0, 0.2);
+}
+
+.more-on-journey ul li a span {
+  color: #006600;
+  transition-property: border-color;
+  -moz-transition-property: border-color;
+  /* Firefox 4 */
+
+  -webkit-transition-property: border-color;
+  -o-transition-property: border-color;
+  /* Opera */
+
+  -moz-transition-duration: 0.6s;
+  -webkit-transition-duration: 0.6s;
+  -o-transition-duration: 0.6s;
+  transition-duration: 0.6s;
+  transition-timing-function: ease-in;
+  -webkit-transition-timing-function: ease-in;
+  /* Safari and Chrome */
+
+  /* border-bottom: 1px solid #ffffff; */
+}
+.more-on-journey ul li a:hover span {
+  border-bottom: 1px solid;
+  transition-property: border-color;
+  -moz-transition-property: border-color;
+  /* Firefox 4 */
+
+  -webkit-transition-property: border-color;
+  -o-transition-property: border-color;
+  /* Opera */
+
+  -moz-transition-duration: 0.6s;
+  -webkit-transition-duration: 0.6s;
+  -o-transition-duration: 0.6s;
+  transition-duration: 0.6s;
+  transition-timing-function: ease-in;
+  -webkit-transition-timing-function: ease-in;
+  /* Safari and Chrome */
+
+  border-color: #006600;
+}
+
+h1.theme-main-title.heading-xlarge {
+    margin: 30px 40px 0px 40px !important;
+}
+
+
+body {
+    -webkit-animation-duration: 0.1s;
+    -webkit-animation-name: fontfix;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 0.1s;
+}
+
+keyframes fontfix {
+    from{ opacity: 1; }
+    to{ opacity: 1; }
+}

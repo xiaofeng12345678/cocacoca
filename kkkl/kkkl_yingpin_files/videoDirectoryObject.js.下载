@@ -1,0 +1,47 @@
+// Video.js
+//---------
+// A model that represents video content
+define('videoDirectoryObject', [''], function () {
+
+return function (options){
+    
+    if (!options.initial_data){
+        console.warn("!! The data passed to this video model was null !!");
+        return false;
+    }
+
+    if (options){
+        options.initial_data = options.initial_data || {};
+        this.author = options.initial_data.author;
+        this.date = options.initial_data.date;
+        this.id = options.initial_data.id;
+        this.platform = options.initial_data.platform;
+
+        try {
+            this.large_poster_url = options.initial_data.poster_url.desktop;
+            this.medium_poster_url = options.initial_data.poster_url.tablet;
+            this.small_poster_url = options.initial_data.poster_url.mobile;
+        } catch (ex){
+            this.large_poster_url = this.medium_poster_url = this.small_poster_url = "";
+        }
+        
+        this.summary = options.initial_data.summary;
+        this.title = options.initial_data.title.desktop;
+        this.total_views = window.Globalize.format( +options.initial_data.total_views, "n0" );
+        this.url = options.initial_data.url;
+    }
+
+    return {
+        title: this.title,
+        author: this.author,
+        summary: this.summary,
+        total_views: this.total_views,
+        date_created: this.date.created,
+        url: this.url,
+        small_poster_url: this.small_poster_url,
+        medium_poster_url: this.medium_poster_url,
+        large_poster_url: this.large_poster_url
+    };
+};
+
+});

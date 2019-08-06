@@ -1,0 +1,370 @@
+
+    @import url(https://fonts.googleapis.com/css?family=Federo);
+
+
+html div.wrapper {
+border: 0;
+}
+
+html.mobile .wrapper {
+padding: 0;
+}
+
+#article a{
+    text-decoration: underline;
+}
+
+
+    .theme-bg-main-module {
+    padding-bottom: 51px;
+background-repeat: no-repeat;
+    }
+
+    .theme-bg-secondary-module {
+    
+        background-image: url("/content/dam/journey/cn/zh/private/themes/history/History-Lg-thumb-bkgd-2.jpg");
+    padding-bottom: 51px;
+background-repeat: repeat;
+    }
+
+     .theme-bg-banner {
+    
+        height: 135px;
+        background-image: url("/content/dam/journey/cn/zh/private/themes/history/History-banner-mobile.jpg");
+    background-repeat: no-repeat;
+    }
+
+    html.big_desktop .theme-bg-banner, html.desktop .theme-bg-banner {
+    
+        height:135px;
+        background-image: url("/content/dam/journey/cn/zh/private/themes/history/History-banner.jpg");
+    
+    }
+
+    html.tablet .theme-bg-banner {
+    
+        height:135px;
+        background-image: url("/content/dam/journey/cn/zh/private/themes/history/History-banner-tablet.jpg");
+    background-position: center 0px;
+    }
+
+    html.theme-bg-main.mobile,
+    html.theme-bg-main.tablet,
+    .theme-bg-main {
+    
+        background-image: url("/content/dam/journey/cn/zh/private/themes/history/History-bkgd.jpg");
+    background-position: center 0px;
+background-repeat: no-repeat;
+background-color: #000000;
+
+    }
+
+    .wrapper .theme-color-primary,
+    .wrapper .theme-color-title,
+    .wrapper .theme-main-title,
+    .wrapper .theme-color-section-title {
+    color: #333;
+    }
+
+    .wrapper .theme-color-secondary,
+    .wrapper .theme-secondary,
+    .wrapper .theme-secondary-link,
+    .wrapper .theme-secondary-link a,
+    .wrapper .rich-text a,
+    .wrapper .theme-contrast .theme-color-secondary,
+    .wrapper .article-blog-template .article-content .articleBody a,
+    .wrapper .recipe-template .article-content .articleBody a,
+    .wrapper .theme-contrast .theme-secondary,
+    .wrapper .packages-t-t a.topic-image .poster-overlay .icon-play,
+    .wrapper .m-stay-sip .side-navigation-colum i,
+    .wrapper .trending-topic .module-base .trending-top-ten > li .truncate strong.theme-secondary,
+    .wrapper .list-large-thumbnail .thumbnail .poster-overlay .icon-play,
+    .wrapper .list-large-thumbnail .thumbnail .poster-overlay .rsPlayBtnIcon {
+    color: #f40009;
+    }
+
+    .wrapper .subNavWrapper li a {
+    color: #3f0005;
+    }
+
+    .wrapper .subNavWrapper li.selected a {
+    color: #ffffff;
+    }
+
+    .wrapper .theme-bg-primary {
+    background-color: #333333;
+    }
+
+    .wrapper .skyscraper-list .banner {
+    background-color: #333333;
+    }
+
+    .wrapper .button {
+    background-color: #333333;
+    }
+
+    .wrapper .button:hover {
+    background-color: #333333;
+    }
+
+    .wrapper .theme-main-rgba {
+    background: rgb(51,51,60) transparent !important;
+/* RGBa with 0.7 opacity */
+background: rgba(51,51,60, 0.75)  !important;
+/* For IE 8*/
+-ms-filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#ff33333d, endColorstr=#ff33333d)  !important;
+    }
+
+    .asset-content a {
+    color: #3f0005 !important;
+background-color: #000000;
+
+
+    }
+
+    .wrapper .theme-contrast .theme-color-primary {
+    color: #f40009;
+    }
+
+    .wrapper .theme-contrast .theme-color-secondary {
+    color: #f40009;
+    }
+
+    .wrapper nav.breadcrumb a {
+    color: #000000;
+    }
+
+    .wrapper  nav.breadcrumb .active span,
+    .wrapper nav.breadcrumb a:hover {
+    color: #f40009;
+    }
+
+    .wrapper .theme-font-section-title,
+    .wrapper .subNav ul.subNavTopLevel,
+    .wrapper p.title-description,
+    .wrapper .theme-main-title,
+    .wrapper .theme-color-section-title,
+    .wrapper .skyscraper-list .banner span,
+    .article-blog-template .articleBody > h1,
+    .article-blog-template .articleBody > h2,
+    .article-blog-template .articleBody > h3,
+    .article-blog-template .articleBody > div > h1,
+    .article-blog-template .articleBody > div > h2,
+    .article-blog-template .articleBody > div > h3,
+    .article-blog-template .articleBody .sub-title {
+    font-family: 'Federo';
+font-weight: 600;
+    }
+
+    .article-blog-template .articleBody {
+    font-family: Helvetica;
+    }
+/* This prevents the module title from being all uppercased and gives more spacing between letters */
+.theme-main-title {
+    letter-spacing: 1px;
+    line-height: 19px!important;
+    text-transform: capitalize !important;
+}
+
+/* Secondary color overwrite */
+.trending-topic .topic-title span,
+.list-small-thumbnail .title {
+    color: #3f0005;
+}
+
+/* Primary color overwrite */
+.trending-topic .topic-summary,
+.list-small-thumbnail .description {
+    color: #000;
+}
+
+/* Subnav Top overwrites */
+.wrapper .subNavWrapper li a {
+    color: #3f0005;
+    font-size: 18px;
+    text-transform: capitalize;
+}
+
+.wrapper .article-blog-template .articleBody  p a, 
+.article-blog-template .articleBody div p a {
+    color: #990000;
+    text-decoration: none;
+}
+
+.list-large-thumbnail ul li span strong {
+    color: #3f0005 !important;
+}
+
+.wrapper .button:hover {
+    background-image: url("/content/dam/journey/us/en/private/themes/history/gradient-btn.png");
+    background-color: #333333 !important;
+    opacity: 0.8;
+}
+
+.promo .overlay h3 strong {
+    color: #FFF !important;
+}
+
+.headline-section {
+    color: #000 !important;
+}
+
+.media-caption p.title-description strong {
+    color: #FFF !important;
+}
+
+.media-caption p.title-description {
+    color: #FFF !important;
+}
+
+.video-container .description {
+    color: #000 !important;
+}
+
+.video-container .title {
+    color: #3f0005 !important;
+}
+
+.content-body {
+    color: #000 !important;
+}
+
+.list-large-thumbnail .headline span.content-body {
+    color: #000 !important;
+}
+
+.list-large-thumbnail .headline {
+    color: #3f0005 !important;
+}
+
+.heading-xlarge {
+    font-size: 27px;
+   
+
+}
+
+html.mobile .heading-xlarge {
+    font-size: 20px;
+    line-height: 24px;
+}
+
+html.tablet .skyscraper-list .banner, 
+html.mobile .skyscraper-list .banner {
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.wrapper .skyscraper-list .banner {
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.m-stay-sip .royalSlider ul li a {
+    color: #990000;
+    text-decoration: none;
+}
+
+section article a {
+    color: #990000;
+    text-decoration: none;
+}
+
+.wrapper .article-blog-template .article-content .articleBody a {
+    color: #990000;
+    text-decoration: none;
+}
+
+.wrapper .articleBody a {
+    color: #990000 !important;
+    text-decoration: none;
+}
+
+.skyscraper-list .content-wrapper {
+    background: transparent url("/content/dam/journey/us/en/private/themes/history/banner-fold-right-black.png") top right no-repeat;
+    color: #000;
+}
+
+.m-more-on ul li a:hover span {
+    border: none;
+    color: #990000;
+}
+
+.m-stay-sip .callout .item:hover .title {
+    color: #990000;
+}
+
+.m-more-on ul li a span {
+    color: #990000;
+}
+
+.lead-media .media-credit, .lead-media .show-media-caption {
+    color: #990000;
+}
+
+.related-content .title span {
+    color: #000;
+}
+
+.wrapper .packages-t-t a.topic-image .poster-overlay .icon-play {
+    color:#3f0005
+}
+
+.smart-slideshow .media-container .rsArrow .rsArrowIcn{
+    background: url('/content/dam/journey/cn/zh/private/themes/history/lead-media-arrows-gray.png') no-repeat !important;
+}
+
+.lead-media .media-container .rsArrow .rsArrowIcn {
+    background: url('/content/dam/journey/cn/zh/private/themes/history/lead-media-arrows-gray.png')  no-repeat 16px center;
+}
+
+.m-more-on ul li a span {
+    color: #990000!important;
+}
+
+html.mobile .packagesContent .list-large-thumbnail .thumbnail .poster-overlay .icon-play, 
+html.mobile .packagesContent .list-large-thumbnail .thumbnail .poster-overlay .rsPlayBtnIcon,
+.packagesContent .list-large-thumbnail .thumbnail .poster-overlay .icon-play {
+    color: #3f0005;
+}
+
+.byline-asset span.theme-secondary-link a,
+.more-on-journey ul li a span {
+    color: #3f0005 !important;  
+}
+
+/*slide show title override*/
+.smart-slideshow.packages-large .media-caption p.title-description, .smart-slideshow.packages-medium .media-caption p.title-description {
+  font-size: 18px;
+  line-height: 18px;
+  margin-top: 3px;
+}
+
+.smart-slideshow .media-caption p {
+  margin-top: 11px;
+  margin-bottom: 0;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+/* Apply the checkerboard background to the bottom 1x3 module on the overview page of the vertical */
+body.verticals div.wrapper div.layout-1x3 {
+    background-image: url("http://assets.coca-colacompany.com/f9/db/d6e14ce94a43bbfa9471212181ac/background-position-center-102px-background-repeat-no-repeat-background-color-333333.jpg");
+padding-bottom: 51px;
+-webkit-box-shadow: inset 0px 12px 10px 0px rgba(0, 0, 0, 0.25);
+box-shadow: inset 0px 12px 10px 0px rgba(0, 0, 0, 0.25);
+}
+
+
+
+body {
+    -webkit-animation-duration: 0.1s;
+    -webkit-animation-name: fontfix;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+    -webkit-animation-delay: 0.1s;
+}
+
+keyframes fontfix {
+    from{ opacity: 1; }
+    to{ opacity: 1; }
+}
